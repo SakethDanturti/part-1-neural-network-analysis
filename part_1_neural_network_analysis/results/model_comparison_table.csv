@@ -1,0 +1,8 @@
+﻿Metric,Experiment 1(Deeper Network)Batch Size: 32,Experiment 2(Tanh + Large Batch)Batch Size: 64,Experiment 3(High Learning Rate)Batch Size: 32
+Training Steps per Epoch,40/40 steps,20/20 steps,40/40 steps
+Final Training Accuracy,99.53%,98.67%,98.83%
+Final Training Loss,0.0116,0.0556,0.0516
+Final Validation Accuracy,97.50%,97.81%,97.81%
+Final Validation Loss,0.2002,0.09,0.0948
+Final Test Accuracy,98.25%,98.25%,98.25%
+Final Test Loss,0.1443,0.0766,0.0773
